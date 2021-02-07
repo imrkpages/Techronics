@@ -1,19 +1,17 @@
 # **Techronics**
 
-### Google Pixel
+ * How do you select a Smartphone 
 
-Google Pixel is a brand of consumer electronic devices developed by Google.
+ * How do you select a Laptop
 
-```
-Phones 
+ * How do you select a TV
 
-    - Pixel & Pixel XL
-    - Pixel 2 & 2 XL
-    - Pixel 3 & 3 XL
-    - Pixel 3a & 3a XL
-    - Pixel 4 & 4 XL
-    - Pixel 4a & 4a (5G)
-    - Pixel 5
-```
+ * How do you select a Desktop
+
+ * How do you select a Gadgets???
+ 
+
+## Don't worry we will help you out !! 
+
 
 [GO BACK](index.md)
