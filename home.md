@@ -15,3 +15,4 @@ Phones
     - Pixel 4 & 4 XL
     - Pixel 4a & 4a (5G)
     - Pixel 5
+```
