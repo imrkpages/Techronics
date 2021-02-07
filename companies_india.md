@@ -14,3 +14,5 @@
  * videocon
  * xolo
  * yu
+
+[GO BACK](index.md)
