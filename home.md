@@ -4,8 +4,7 @@
 
 Google Pixel is a brand of consumer electronic devices developed by Google.
 
-```markdown
-
+```
 Phones 
 
     - Pixel & Pixel XL
@@ -16,3 +15,5 @@ Phones
     - Pixel 4a & 4a (5G)
     - Pixel 5
 ```
+
+[GO BACK](index.md)
